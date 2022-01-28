@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: white;
+    overflow: hidden;
+}
+.container{
+    margin: 50px auto;
+    text-align: center;
+    
+}
+h1{
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+#time{
+    font-size: 5em;
+    color: black;
+    
+    
+}
+button{
+ 
+    padding: 18px 10px;
+    font-size: 1.5em;
+    width: 180px;
+    margin: 10px;
+    border-radius: 15px;
+    color: black;
+    font-weight: bold;
+    border: 2px solid black;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #65c7f7;
+    color:white;
+    transition: 0.4s;
+    border: none;
+}
